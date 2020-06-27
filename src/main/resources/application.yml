@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://130.193.51.155:5432/alfa_battle
+    username: alfa_battle
+    password: qwe123
+    driver-class-name: org.postgresql.Driver
